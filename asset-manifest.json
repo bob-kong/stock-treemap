@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/stock-treemap/static/css/main.f5221b1c.css",
+    "main.js": "/stock-treemap/static/js/main.bb00c7fc.js",
+    "index.html": "/stock-treemap/index.html",
+    "main.f5221b1c.css.map": "/stock-treemap/static/css/main.f5221b1c.css.map",
+    "main.bb00c7fc.js.map": "/stock-treemap/static/js/main.bb00c7fc.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f5221b1c.css",
+    "static/js/main.bb00c7fc.js"
+  ]
+}
